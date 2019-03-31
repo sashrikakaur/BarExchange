@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "108540859616",
+    "firebase_url": "https://elated-chariot-231218.firebaseio.com",
+    "project_id": "elated-chariot-231218",
+    "storage_bucket": "elated-chariot-231218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108540859616:android:b9c792267ac96dd1",
+        "android_client_info": {
+          "package_name": "com.sashrika.barexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108540859616-qvk0h3snmaomjtb3sgmdi6p9edpm07t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sashrika.barexchange",
+            "certificate_hash": "0a6c4b98dd6a3905bc2d93acf61b89daf864a816"
+          }
+        },
+        {
+          "client_id": "108540859616-rnfr26hrf4rj51rqp2hojbv3nh4c0lta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBp2bldQXp7XVfmSoRDOYHj7b36gLqXyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108540859616-rnfr26hrf4rj51rqp2hojbv3nh4c0lta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
